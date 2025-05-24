@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+langchain
+langchain-openai
+llamaindex
+# For ragflow, we'll assess if we can pull specific modules or reimplement features.
+# Add placeholder for now, or specific dependencies if known.
+# ragflow # Placeholder
+numpy
+beautifulsoup4
+lxml
+pypdf
+python-docx
+chromadb # For initial local vector store
+sentence-transformers # For embeddings
+pydantic-settings
